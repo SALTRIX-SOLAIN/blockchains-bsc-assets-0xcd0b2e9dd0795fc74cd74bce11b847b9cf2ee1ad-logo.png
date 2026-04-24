@@ -1,0 +1,12 @@
+{
+  "name": "Magellan",
+  "website": "https://www.saltrix.co.kr",
+  "description": "Magellan(MA) is the utility token for SOLAIN, a next-gen DePIN project focused on sustainable high-tech salt infrastructure.",
+  "explorer": "https://bscscan.com/token/0xcd0b2e9dd0795fc74cd74bce11b847b9cf2ee1ad",
+  "type": "BEP20",
+  "symbol": "MA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcd0b2e9dd0795fc74cd74bce11b847b9cf2ee1ad",
+  "links": []
+}
